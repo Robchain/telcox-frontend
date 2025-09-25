@@ -1,0 +1,60 @@
+/* Estilos específicos del componente de consumo */
+.consumption-container {
+  min-height: 60vh;
+}
+
+.card-header {
+  font-weight: 600;
+}
+
+.progress-bar {
+  transition: width 0.6s ease;
+}
+
+.card-body h3, .card-body h4 {
+  font-weight: 700;
+}
+
+.text-primary {
+  color: #0d6efd !important;
+}
+
+.text-success {
+  color: #198754 !important;
+}
+
+.bg-danger {
+  background-color: #dc3545 !important;
+}
+
+.bg-warning {
+  background-color: #ffc107 !important;
+}
+
+.bg-success {
+  background-color: #198754 !important;
+}
+
+.btn-group .btn.active {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  color: white;
+}
+
+.alert {
+  border: none;
+  border-radius: 8px;
+}
+
+.spinner-border {
+  width: 3rem;
+  height: 3rem;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.badge {
+  font-weight: 500;
+}
